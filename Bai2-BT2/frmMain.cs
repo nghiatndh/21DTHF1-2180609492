@@ -228,5 +228,10 @@ namespace Bai2_BT2
                 MessageBox.Show("lỗi không thể uplload file ảnh", "Lỗi!!", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
+
+        private void helloWorld()
+        {
+            MessageBox.Show('Hello World');
+        }
     }
 }
