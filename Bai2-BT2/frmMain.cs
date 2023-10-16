@@ -21,6 +21,10 @@ namespace Bai2_BT2
         public frmMain()
         {
             InitializeComponent();
+            Console.WriteLine("adudud");
+            Console.WriteLine("adudud");
+            Console.WriteLine("adudud");
+            Console.WriteLine("adudud");
         }
 
 
