@@ -232,6 +232,11 @@ namespace Bai2_BT2
         private void helloWorld()
         {
             MessageBox.Show('Hello World');
+
+        }
+        private void helloWorld2()
+        {
+            MessageBox.Show('Hello World 2');
         }
     }
 }
