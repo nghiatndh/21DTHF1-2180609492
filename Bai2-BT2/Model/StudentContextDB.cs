@@ -28,5 +28,10 @@ namespace Bai2_BT2.Model
                 .WithOptional(e => e.Major)
                 .HasForeignKey(e => new { e.FacultyID, e.MajorID });
         }
+
+        internal void SaveChanges()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
