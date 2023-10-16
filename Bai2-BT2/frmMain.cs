@@ -14,6 +14,7 @@ using static System.Net.Mime.MediaTypeNames;
 
 namespace Bai2_BT2
 {
+    //nhat hao da o day
     public partial class frmMain : Form
     {
         private List<Faculty> listFaculties = new List<Faculty>();
