@@ -11,7 +11,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using static System.Net.Mime.MediaTypeNames;
-
+//Gia Bảo đã ở đây
 namespace Bai2_BT2
 {
     public partial class frmMain : Form
